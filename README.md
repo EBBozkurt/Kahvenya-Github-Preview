@@ -118,8 +118,6 @@ Upcoming Features:<br />
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 - [Dart](https://dart.dev/)
 - [Flutter](https://flutter.dev/)
 - [Easy Localization](https://pub.dev/packages/easy_localization)
@@ -147,7 +145,9 @@ Project Google Play Link: [https://play.google.com/store/apps/details?id=com.eki
 - [Sticky Kit](http://leafo.net/sticky-kit)
 - [JVectorMap](http://jvectormap.com)
 - [Font Awesome](https://fontawesome.com)
-- [ReadMe Template](https://github.com/othneildrew/Best-README-Template)
+- [Readme Template](https://github.com/othneildrew/Best-README-Template)
+
+- This readme file copied from Best-README-Template, if you want to use this original file go to => https://github.com/othneildrew/Best-README-Template
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
