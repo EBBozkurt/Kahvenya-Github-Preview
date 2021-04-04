@@ -54,7 +54,7 @@
 
 ## About The Project
 
-<p align-content="space-evenly">
+<p align-content="space-between">
 <img src="images/1.png" width="350" height="700">
 <img src="images/2.png" width="350" height="700">
 <img src="images/3.png" width="350" height="700">
@@ -68,53 +68,53 @@
 
 Coffenia (Kahvenya) The app that makes you love coffee!
 
-Features:
-• What do celebrities drink ?
-• Coffee Ingredients
-• Espresso Based Coffees
-• - Espresso
-• - Americano
-• - Latte
-• - Mocha
-• - Macchiato
-• - Cappuccino
-• - Freddo
-• - Irish Coffee
-• Brewed Coffees
-• - V60
-• - Chemex
-• - French Press
-• - Moka Pot
-• - Aeropress
-• - Cold Brew
-• Milkshake
-• Frozen
-• Smoothie
-• Strength Rates
-• Caffeine Rates
-• Milk Rates
-• Milk Foam Rates
-• Note
-• Calories
-• Hot and Cold Drinking of Coffees
-• Coffee Recipes
-• Coffee History
+Features: <br />
+• What do celebrities drink ?<br />
+• Coffee Ingredients<br />
+• Espresso Based Coffees<br />
+• - Espresso<br />
+• - Americano<br />
+• - Latte<br />
+• - Mocha<br />
+• - Macchiato<br />
+• - Cappuccino<br />
+• - Freddo<br />
+• - Irish Coffee<br /><br />
+• Brewed Coffees<br />
+• - V60<br />
+• - Chemex<br />
+• - French Press<br />
+• - Moka Pot<br />
+• - Aeropress<br />
+• - Cold Brew<br />
+• Milkshake<br />
+• Frozen<br />
+• Smoothie<br />
+• Strength Rates<br />
+• Caffeine Rates<br />
+• Milk Rates<br />
+• Milk Foam Rates<br />
+• Note<br />
+• Calories<br />
+• Hot and Cold Drinking of Coffees<br />
+• Coffee Recipes<br />
+• Coffee History<br /><br />
 
--Have you entered Starbucks and don't know what to buy?
--Do you know and wonder about the types of coffee?
--Are you having trouble naming the coffee varieties?
+-Have you entered Starbucks and don't know what to buy?<br />
+-Do you know and wonder about the types of coffee?<br />
+-Are you having trouble naming the coffee varieties?<br />
 
-You should download the app now! Coffenia will help you make a great cup of coffee.
+You should download the app now! Coffenia will help you make a great cup of coffee.<br />
 
-• About roasting, brewing and tasting.
-• Learn more about the preparation methods: V60, Aeropress, Chemex, Turkish Coffee, Cold Brew, French Press, Moka Pot.
+• About roasting, brewing and tasting.<br />
+• Learn more about the preparation methods: V60, Aeropress, Chemex, Turkish Coffee, Cold Brew, French Press, Moka Pot.<br />
 
-Upcoming Features:
-• More Language Support
-• Suggestions of coffee tasters
-• My favorite Coffees
-• Most popular coffees (YEAR-MONTH)
-• The best coffees you can drink at Starbucks!
+Upcoming Features:<br />
+• More Language Support<br />
+• Suggestions of coffee tasters<br />
+• My favorite Coffees<br />
+• Most popular coffees (YEAR-MONTH)<br />
+• The best coffees you can drink at Starbucks!<br />
 
 ### Built With
 
