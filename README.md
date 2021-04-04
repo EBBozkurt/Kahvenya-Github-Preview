@@ -14,17 +14,14 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-
-
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.ekinberkbozkurt.flutter.kahvenya&hl=en">
-    <img src="images/logo.png" alt="Logo" width="300" height="300">
+    <img src="images/logo.png" alt="Logo" width="500" height="200">
   </a>
 
   <h3 align="center">Kahvenya (Coffenia)</h3>
@@ -56,15 +53,16 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+
 <p align-content="space-evenly">
-<img src="images/1.png" width="400" height="500">
-<img src="images/2.png" width="400" height="500">
-<img src="images/3.png" width="400" height="500">
-<img src="images/4.png" width="400" height="500">
-<img src="images/5.png" width="400" height="500">
-<img src="images/6.png" width="400" height="500">
-<img src="images/7.png" width="400" height="500">
-<img src="images/8.png" width="400" height="500">
+<img src="images/1.png" width="300" height="800">
+<img src="images/2.png" width="300" height="800">
+<img src="images/3.png" width="300" height="800">
+<img src="images/4.png" width="300" height="800">
+<img src="images/5.png" width="300" height="800">
+<img src="images/6.png" width="300" height="800">
+<img src="images/7.png" width="300" height="800">
+<img src="images/8.png" width="300" height="800">
 <br />
 </p>
 
