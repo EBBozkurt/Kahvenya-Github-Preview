@@ -57,8 +57,17 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<p align-content="space-evenly">
+<img src="images/1.png" width="200" height="300">
+<img src="images/2.png" width="200" height="300">
+<img src="images/3.png" width="200" height="300">
+<img src="images/4.png" width="200" height="300">
+<img src="images/5.png" width="200" height="300">
+<img src="images/6.png" width="200" height="300">
+<img src="images/7.png" width="200" height="300">
+<img src="images/8.png" width="200" height="300">
+<br />
+</p>
 
 Coffenia (Kahvenya) The app that makes you love coffee!
 
@@ -150,4 +159,11 @@ Project Google Play Link: [https://play.google.com/store/apps/details?id=com.eki
 [stars-url]: https://github.com/EBBozkurt/Kahvenya-Github-Preview/stargazers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ekinberkb/
-[product-screenshot]: images/screenshot.png
+[product-screenshot1]: images/1.png
+[product-screenshot2]: images/2.png
+[product-screenshot3]: images/3.png
+[product-screenshot4]: images/4.png
+[product-screenshot5]: images/5.png
+[product-screenshot6]: images/6.png
+[product-screenshot7]: images/7.png
+[product-screenshot8]: images/8.png
